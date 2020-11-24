@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/austi/Files/Clion/notetozip2/main.cpp
+string
+-
+iostream
+-
+filesystem
+-
+stdio.h
+-
+vector
+-
+
